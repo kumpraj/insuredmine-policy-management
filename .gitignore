@@ -1,0 +1,31 @@
+# Dependency directory
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+.env.development
+.env.test
+.env.production
+
+# Logs
+*.log
+
+# Runtime data
+pids*.pid
+
+# Coverage reports
+coverage/
+
+# Testing tools cache
+.nyc_output
+
+# IDE specific config files
+.vscode/settings.json
+.vscode/tasks.json
+
+# Editor cache
+.eslintcache
+.stylelintcache

@@ -54,6 +54,7 @@ To search for policy information by username:
 
 1. Use the `/users/:username/policies` endpoint, replacing `:username` with the actual username.
 <br>
+
 ![Search for policy information by username](./images/Search%20API%20to%20find%20policy%20with%20username.JPG)
 
 ### Getting Aggregated Policy Information
@@ -63,6 +64,7 @@ To get aggregated policy information:
 1. Use the `/users/policies/aggregated` endpoint.
 
 <br>
+
 ![Aggreagated Policies by User](./images/Aggregated%20policies%20by%20each%20user.JPG)
 
 ### Monitoring CPU Utilization and Server Restart
